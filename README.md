@@ -1,1 +1,1 @@
-Bisection method ❤
+Random random = new Random();
